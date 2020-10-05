@@ -1,9 +1,10 @@
-# html-website
+# bootstrap
 
-HTML at commit 3514d46
-CSS at commit b8bd4c3
+Bootstrap 1 at commit a793da9
 
-
-My more advanced html is the navigation of the multi file website. The user can navigate throughout the website and explore multiple pages about dogs. Additionally, when the photos on the home page are hovered over, the name of the dog appears.
-
-I was going to fix the layout of the images on the home page, but Mr. Jaiclin told me to wait until we learn bootstrap.
+5 Extra Bootstrap Things:
+- cards 
+- table
+- tooltip
+- carousel
+- spinners
